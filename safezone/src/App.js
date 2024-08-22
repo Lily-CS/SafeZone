@@ -1,23 +1,28 @@
 import logo from './logo.svg';
 import './App.css';
+import LoginSignup from './Components/LoginSignup/LoginSignup';
+import SignIn from './Components/LoginSignup/LoginSignup';
+import { useMsal } from "@azure/msal-react";
+import { useEffect } from 'react';
 
 function App() {
+  const { instance } = useMsal();
+
+  useEffect(() => {
+    instance.handleRedirectPromise().then((authResponse) => {
+      if (authResponse) {
+        console.log("Authentication successful", authResponse);
+        // You can store the authResponse or update the app state as needed
+      }
+    }).catch((error) => {
+      console.error("Authentication error", error);
+    });
+  }, [instance]);
+
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <SignIn />
     </div>
   );
 }
