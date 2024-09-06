@@ -1,10 +1,12 @@
 # SafeZone
 
-Overview
+
+# Overview
+
 
 SafeZone Ratings is a web-based service designed to provide personalized safety ratings for various locations based on user feedback categorized by gender identity. The project aims to address the need for location-specific safety information for vulnerable communities, helping users make informed decisions about their safety.
 
-**Table of Contents**
+# **Table of Contents**
 
 1. Project Description
 2. Features
