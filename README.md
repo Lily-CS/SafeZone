@@ -20,5 +20,7 @@ SafeZone Ratings is a web-based service designed to provide personalized safety 
 Contact Information
 
 Author: Lily Aguirre
+
 Email: your.email@example.com
+
 LinkedIn: LinkedIn Profile
