@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-import LoginSignup from './Components/LoginSignup/LoginSignup';
 import SignIn from './Components/LoginSignup/LoginSignup';
 import { useMsal } from "@azure/msal-react";
 import { useEffect } from 'react';
