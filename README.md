@@ -18,6 +18,8 @@ SafeZone Ratings is a web-based service designed to provide personalized safety 
     2.1 Background and Motivations
     2.2 Problem statement
     2.3 Project Scope
+##  3. METHODOLOGY
+    3. Development Type
 4. Installation
 5. Usage
 6. Contributing
