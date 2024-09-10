@@ -34,6 +34,32 @@ SafeZone Ratings is a web-based service designed to provide personalized safety 
 ##  6. DESIGN
     6.1 System Architecture Design
         6.1.1 Overall System Components and Interactions
+        6.1.2 Define Parts Communication
+    6.2 UI/UX Design
+        6.2.1 Wireframes
+        6.2.2 Mockups
+    6.3 Database Architecture Design
+        6.3.1 Database Schema
+        6.3.2 Database Tables, Relationships & Data Models
+    6.4 API Design
+        6.4.1 Endpoints, Request/Response Structure & Authentication Methods
+    6.5 Component Design
+        6.5.1 Design Software Components & Interface
+##  7. DEVELOPMENT STAGE
+    7.1 Test-Driven Development
+        7.1.1 Write Test Components
+    7.2 FRONT-END DEVELOPMENT
+    7.3 BACK-END DEVELOPMENT
+        7.3.1 Server-Side Logic & Database Integration
+        7.3.2 API Endpoints Implementation
+## 8. TESTING AND VALIDATION
+    8.1 Testing Strategy
+    8.2 Bug Tracking and Resolution
+## 9. DEPLOYMENT AND MAINTENANCE
+    9.1 Deployment Plan
+    9.2 Maintenance and Support
+## 10. FUTURE WORK AND ENHANCEMENTS
+    10.1 Planned Features
 
 
 1. Usage
