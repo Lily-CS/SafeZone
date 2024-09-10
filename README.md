@@ -66,7 +66,8 @@ Contact Information
 
 Author: Lily Aguirre
 
-Email: your.email@example.com
+Email: englilyaguirre@gmail.com
+
 Founder:[ LinkedIn Profile](https://www.linkedin.com/in/lily-aguirre-9537a31a1/)
 
 Project Contributor:
