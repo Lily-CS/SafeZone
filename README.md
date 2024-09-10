@@ -62,17 +62,11 @@ SafeZone Ratings is a web-based service designed to provide personalized safety 
     10.1 Planned Features
 
 
-1. Usage
-2. Contributing
-3. Testing
-4. Deployment
-5. Future Enhancements
-6.  License
-
 Contact Information
 
 Author: Lily Aguirre
 
 Email: your.email@example.com
+Founder:[ LinkedIn Profile](https://www.linkedin.com/in/lily-aguirre-9537a31a1/)
 
-LinkedIn: LinkedIn Profile
+Project Contributor:
