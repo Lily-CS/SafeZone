@@ -20,6 +20,9 @@ SafeZone Ratings is a web-based service designed to provide personalized safety 
     2.3 Project Scope
 ##  3. METHODOLOGY
     3. Development Type
+##
+    Lean Startup methodology combined with Agile Development
+
 ##  4. RESEARCH & REQUIREMENTS
     4.1 Functional Requirements
     4.2 Non-Functional Requirements
