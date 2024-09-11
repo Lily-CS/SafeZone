@@ -23,6 +23,11 @@ SafeZone Ratings is a web-based service designed to provide personalized safety 
 ##
     Lean Startup methodology combined with Agile Development
 
+    Lean Startup Approach-
+    Build-Measure-Learn: Building a Minimum Viable Product with core features to test assumptions and gather user feedback quickly.
+
+    Focus on User Feedback-
+
 ##  4. RESEARCH & REQUIREMENTS
     4.1 Functional Requirements
     4.2 Non-Functional Requirements
