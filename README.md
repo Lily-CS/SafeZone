@@ -9,7 +9,8 @@ SafeZone Ratings is a web-based service designed to provide personalized safety 
 # **Table of Contents**
 
 ## [Project Description](https://github.com/Lily-CS/SafeZone/tree/main/Project%20Introduction)
-    Abstract
+    [Abstract](https://github.com/Lily-CS/SafeZone/tree/main/Project%20Introduction)
+
 ##  1. EXECUTIVE SUMMARY
     1.1 Overview of SafeZone Ratings
     1.2 Objectives and Goals
@@ -55,6 +56,7 @@ SafeZone Ratings is a web-based service designed to provide personalized safety 
     4.3 User Stories
     4.4 User Personas
     4.5 Uses Cases
+
 ##  5. SYSTEM DESIGN AND ARCHITECTURE
     5.1 System Overview
     5.2 Technology Stack
