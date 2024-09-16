@@ -52,7 +52,7 @@ SafeZone Ratings is a web-based service designed to provide personalized safety 
 ##
 
 ##  4. RESEARCH & REQUIREMENTS
-    4.1 Functional Requirements
+##  [4.1 Functional Requirements](https://)
     4.2 Non-Functional Requirements
     4.3 User Stories
     4.4 User Personas
