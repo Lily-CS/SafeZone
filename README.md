@@ -23,31 +23,31 @@ SafeZone Ratings is a web-based service designed to provide personalized safety 
     3.1 Development Type
 ##
    Lean Startup methodology combined with Agile Development
-##
+
     Lean-
-##
+
     Lean Startup Approach :
     Build-Measure-Learn: Building a Minimum Viable Product with core features to test assumptions and gather user feedback quickly.
-##
+
     Focus on User Feedback :
     SafeZone's success hinges on user input to refine safety ratings and user experience.
     Lean will help continuously refine the product based on real data from users.
-##
+
     Cost-Efficiency :
     Given that Safezone is still in development lean will help minimize waste of time by only building what is necessary.
-##
+
     Agile-
-##
+
     Iterative Progress :
     Agile development uses short sprints to create incremental improvements.This will allow SafeZone to build new
     features in manageable chunk, with opportunities for
     adjustment based on user feedback.
-##
+
     Flexibility :
     Since SafeZone is a growing project with many moving parts-real time data ingestion, Azure Integration plan and React visualizations- Agile helps keep the team nimble.
     This flexibility is key for implementing updates
     based on evolving user needs and platforms capabilities.
-
+##
 
 ##  4. RESEARCH & REQUIREMENTS
     4.1 Functional Requirements
