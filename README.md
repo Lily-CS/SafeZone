@@ -53,7 +53,7 @@ SafeZone Ratings is a web-based service designed to provide personalized safety 
 
 ##  4. RESEARCH & REQUIREMENTS
 ##  [4.1 Functional Requirements](https://github.com/Lily-CS/SafeZone/tree/main/FunctionalRequirements)
-    4.2 Non-Functional Requirements
+##  [4.2 Non-Functional Requirements](https://github.com/Lily-CS/SafeZone/tree/main/NonFunctionalRequirements)
     4.3 User Stories
     4.4 User Personas
     4.5 Uses Cases
